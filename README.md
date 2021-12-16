@@ -1,5 +1,6 @@
-# Anonymous submission to AAAI 2022
+# Friendly Training - AAAI 2022
 Title: **Being Friends Instead of Adversaries: Deep Networks Learn to Simplify Data to Train Other Networks**
+Authors: Simone Marullo, Matteo Tiezzi, Marco Gori, Stefano Melacci
 
 _Notice that reproducibility is not guaranteed by PyTorch across different releases, platforms, hardware. Moreover, determinism cannot be enforced due to use of PyTorch operations for which deterministic implementations do not exist (e.g. bilinear upsampling)._
 
