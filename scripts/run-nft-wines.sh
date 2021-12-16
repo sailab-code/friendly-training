@@ -1,0 +1,1 @@
+python train-neural.py --activation=relu --arch=ff2 --beta_simp=500 --dataset=winedr --epochs=30 --iterations_simp=1 --lr_clf=0.0001 --lr_simp=1e-05 --ratio_simp=0.5 --scaling=quadratic --sigmoid_postprocessing=no --simplifier=ff --target_conditioning=yes --weight_decay_clf=0.0001 --weight_decay_simp=0.0001

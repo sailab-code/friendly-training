@@ -1,0 +1,1 @@
+python train-delta.py --arch=cnn --conf_thres=0.98 --dataset=mnist_back_image --iterations_simp=120 --ratio_simp=0.5 --scaling=quadratic --step_simp=0.1
