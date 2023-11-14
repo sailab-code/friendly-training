@@ -48,3 +48,9 @@ In IEEE International Joint Conference on Neural Networks (IJCNN) (arXiv preprin
 **[2]** Larochelle, H.; Erhan, D.; Courville, A.; Bergstra, J.; and Bengio, Y. 2007.
 An empirical evaluation of deep architectures on problems with many factors of variation. 
 In International Conference on Machine Learning, 473–480.
+
+
+Acknowledgement
+---------------
+
+This software was developed in the context of some of the activities of the PRIN 2017 project RexLearn, funded by the Italian Ministry of Education, University and Research (grant no. 2017TWNMH2).This software was developed in the context of some of the activities of the PRIN 2017 project RexLearn, funded by the Italian Ministry of Education, University and Research (grant no. 2017TWNMH2).
